@@ -99,6 +99,7 @@ This bot is provided for educational purposes only. Use at your own risk. The de
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/airdropinsiders/Sowing-Taker-Auto-Bot/issues) if you want to contribute.
+## support me USDT TRC20 network
+```bash
+TKzSXVjhPk2G2Vo1D9htCNnidUD86zvqFb
+```
